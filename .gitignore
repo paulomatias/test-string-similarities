@@ -1,0 +1,32 @@
+# Ignore IntelliJ files
+*.iml
+*.ipr
+*.iws
+*.ids
+.idea
+atlassian-ide-plugin.xml
+TODO.md
+
+# Ignore Eclipse files
+.classpath
+.project
+.settings
+.groovy
+
+# Ignore vim file
+*~
+*#
+
+*.chproj
+.DS_Store
+
+# Ignore specific file/directory
+target
+classes
+target-eclipse
+/lib
+out
+stacktrace.log
+
+.java-version
+
